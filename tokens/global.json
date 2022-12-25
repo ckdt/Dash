@@ -1,1 +1,82 @@
-{}
+{
+  "spacing-unit": {
+    "value": "16",
+    "type": "spacing",
+    "description": "Base size for calculating spacing units"
+  },
+  "spacing-01": {
+    "value": "{spacing-unit} * 0.125",
+    "type": "spacing",
+    "description": "0.125 rem"
+  },
+  "spacing-02": {
+    "value": "{spacing-unit} * 0.25",
+    "type": "spacing",
+    "description": "0.25 rem"
+  },
+  "spacing-03": {
+    "value": "{spacing-unit} * 0.5",
+    "type": "spacing",
+    "description": "0.5 rem"
+  },
+  "spacing-04": {
+    "value": "{spacing-unit} * 0.75",
+    "type": "spacing",
+    "description": "0.75 rem"
+  },
+  "spacing-05": {
+    "value": "{spacing-unit} * 1",
+    "type": "spacing",
+    "description": "1 rem"
+  },
+  "spacing-06": {
+    "value": "{spacing-unit} * 1.25",
+    "type": "spacing",
+    "description": "1.25 rem"
+  },
+  "spacing-07": {
+    "value": "{spacing-unit} * 1.5",
+    "type": "spacing",
+    "description": "1.5 rem"
+  },
+  "spacing-08": {
+    "value": "{spacing-unit} * 2",
+    "type": "spacing",
+    "description": "2 rem"
+  },
+  "spacing-09": {
+    "value": "{spacing-unit}*2.5",
+    "type": "spacing",
+    "description": "2.5 rem"
+  },
+  "spacing-10": {
+    "value": "{spacing-unit}*3",
+    "type": "spacing",
+    "description": "3 rem"
+  },
+  "spacing-11": {
+    "value": "{spacing-unit} *3.5",
+    "type": "spacing",
+    "description": "3.5 rem"
+  },
+  "spacing-12": {
+    "value": "{spacing-unit}*4",
+    "type": "spacing",
+    "description": "4 rem"
+  },
+  "spacing-13": {
+    "value": "{spacing-unit} * 5",
+    "type": "spacing",
+    "description": "5 rem"
+  },
+  "spacing-14": {
+    "value": "{spacing-unit} *6",
+    "type": "spacing",
+    "description": "6 rem"
+  },
+  "spacing-15": {
+    "value": "{spacing-unit} *8",
+    "type": "spacing",
+    "description": "8 rem"
+  }
+}
